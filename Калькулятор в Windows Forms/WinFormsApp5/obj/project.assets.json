@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fasda\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Обычный калькулятор в Windows Forms.csproj",
+      "projectUniqueName": "C:\\Users\\fasda\\source\\repos\\Калькулятор в Windows Forms\\WinFormsApp5\\Обычный калькулятор в Windows Forms.csproj",
       "projectName": "Обычный калькулятор в Windows Forms",
-      "projectPath": "C:\\Users\\fasda\\source\\repos\\WinFormsApp5\\WinFormsApp5\\Обычный калькулятор в Windows Forms.csproj",
+      "projectPath": "C:\\Users\\fasda\\source\\repos\\Калькулятор в Windows Forms\\WinFormsApp5\\Обычный калькулятор в Windows Forms.csproj",
       "packagesPath": "C:\\Users\\fasda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fasda\\source\\repos\\WinFormsApp5\\WinFormsApp5\\obj\\",
+      "outputPath": "C:\\Users\\fasda\\source\\repos\\Калькулятор в Windows Forms\\WinFormsApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fasda\\AppData\\Roaming\\NuGet\\NuGet.Config",

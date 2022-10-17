@@ -163,7 +163,7 @@ namespace WinFormsApp5
 
         private void умножитьИДелитьToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Если в уровнении есть на побобии такого : 4 * 3 ^ 2, нужно записать: 4 * ( 3 ^ 2 )");
+            MessageBox.Show("Если в уровнении есть на подобии такого : 4 * 3 ^ 2, нужно записать: 4 * ( 3 ^ 2 )");
         }
 
         private void кореньВ2СтепениToolStripMenuItem_Click(object sender, EventArgs e)
